@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Udemy\Logical\Logical\bin\Debug\net10.0\Logical.exe
+C:\Users\admin\Desktop\Udemy\Logical\Logical\bin\Debug\net10.0\Logical.deps.json
+C:\Users\admin\Desktop\Udemy\Logical\Logical\bin\Debug\net10.0\Logical.runtimeconfig.json
+C:\Users\admin\Desktop\Udemy\Logical\Logical\bin\Debug\net10.0\Logical.dll
+C:\Users\admin\Desktop\Udemy\Logical\Logical\bin\Debug\net10.0\Logical.pdb
+C:\Users\admin\Desktop\Udemy\Logical\Logical\obj\Debug\net10.0\Logical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Udemy\Logical\Logical\obj\Debug\net10.0\Logical.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Udemy\Logical\Logical\obj\Debug\net10.0\Logical.AssemblyInfo.cs
+C:\Users\admin\Desktop\Udemy\Logical\Logical\obj\Debug\net10.0\Logical.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Udemy\Logical\Logical\obj\Debug\net10.0\Logical.dll
+C:\Users\admin\Desktop\Udemy\Logical\Logical\obj\Debug\net10.0\refint\Logical.dll
+C:\Users\admin\Desktop\Udemy\Logical\Logical\obj\Debug\net10.0\Logical.pdb
+C:\Users\admin\Desktop\Udemy\Logical\Logical\obj\Debug\net10.0\Logical.genruntimeconfig.cache
+C:\Users\admin\Desktop\Udemy\Logical\Logical\obj\Debug\net10.0\ref\Logical.dll
