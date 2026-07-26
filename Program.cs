@@ -22,8 +22,6 @@ if (answer1 == userAnswer1)
     else
     {
         Console.WriteLine("Sorry you got that wrong.");
-        score-;
-        Console.WriteLine("You lost a point.");
     }
 Console.WriteLine(question2);
 string userAnswer2 = Console.ReadLine();
@@ -37,8 +35,6 @@ if (userAnswer2 == answer2)
  else
 {
     Console.WriteLine("That was incorrect.");
-    score-;
-    Console.WriteLine("You lost a point.");
 }
 Console.WriteLine(question3);
 string userAnswer3 = Console.ReadLine();
@@ -52,8 +48,7 @@ if (userAnswer3 == answer3)
  else
 {
     Console.WriteLine("That was incorrect.");
-    score-;
-    Console.WriteLine("You lost a point.");
+
 }
 
 Console.WriteLine($"Your score is {score}");
